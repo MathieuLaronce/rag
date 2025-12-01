@@ -1,4 +1,3 @@
-
 from langchain_ollama import OllamaEmbeddings, ChatOllama
 
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
